@@ -8,7 +8,7 @@
       <link href="/2022/07/24/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
       <url>/2022/07/24/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
       
-        <content type="html"><![CDATA[<p>2333</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="test"><a href="#test" class="headerlink" title="test"></a>test</h2><p>I think I’ll use it to format all of my documents from now on.<br><em>xie</em><br><strong>jiacu</strong><br><em><strong>jiacu&amp;xie</strong></em></p><blockquote><p>这是一个引用</p><p>一起引用</p><blockquote><p>嵌套引用</p></blockquote><h1 id="标题引用"><a href="#标题引用" class="headerlink" title="标题引用"></a>标题引用</h1><ul><li>233,原点引用</li></ul></blockquote><ol><li>有序列表</li><li>233</li><li>234<ol><li>嵌套1</li><li>嵌套2</li></ol></li></ol><ul><li>无序列表</li></ul><ul><li>无序列表2</li></ul><ul><li>无序列表3<ul><li><blockquote><p>引用到列表</p></blockquote></li></ul></li></ul><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">&#123;</span><br><span class="line">    <span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span>&#123;</span><br><span class="line">        cout &lt;&lt; ceshi</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><hr><p>链接test <a href="https://markdown.com.cn/" title="studying">233</a></p><p><a href="https://markdown.com.cn/">https://markdown.com.cn</a></p>]]></content>
       
       
       
